@@ -1,16 +1,35 @@
-## Hi there 👋
+it's to please me. not you.
 
-<!--
-**rexkyng/rexkyng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> i'm too lazy and below is generated with ai
 
-Here are some ideas to get you started:
+# Hi there, I'm Rex! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, open-source projects, and continuous learning. Below you'll find more about me, my work, and how to get in touch.
+
+## 🚀 About Me
+
+- 🌐 I specialize in full-stack web development.
+- 💻 Currently working with technologies like JavaScript, React, Node.js, and MongoDB.
+- 📚 Always eager to learn new tools and technologies.
+- 🤝 Open to collaborating on interesting projects and contributing to open-source.
+
+## 🛠️ My Skills
+
+- **Languages:** JavaScript, Python, HTML, CSS
+- **Frameworks:** React, Express, Node.js
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, Docker, VS Code
+
+## 📈 GitHub Stats
+
+![rexkyng's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexkyng&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+- **Email:** timescam@duck.com
+- **LinkedIn:** [linkedin.com/in/rexkyng](https://www.linkedin.com/in/rexkyng)
+- **Twitter:** [@timescaming](https://twitter.com/timescaming)
+
+---
+
+*Thank you for visiting my profile!*
