@@ -1,5 +1,3 @@
-it's to please me. not you.
-
 > i'm too lazy and below is generated with ai
 
 # Hi there, I'm Rex! 👋
